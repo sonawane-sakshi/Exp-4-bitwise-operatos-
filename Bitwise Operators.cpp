@@ -23,3 +23,13 @@ int main() {
     cout<<"right shift: "<<right_shift<<endl;
     return 0;
 }
+/*
+    **Output**
+bit_and: 5
+bit_or: 7
+bit_not: -8
+bit_xor: 2
+left shift: 20
+right shift: 1
+*/
+

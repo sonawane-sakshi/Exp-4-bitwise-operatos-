@@ -1,5 +1,5 @@
-//Aditya Sthawarmath
-//PRN: 23070123008
+//sakshi Sonawane
+//PRN: 24070123505
 //Experiment - 4(2)
 //Code to set and reset a bit in a binary number
 
@@ -18,3 +18,10 @@ int main(){
     cout<<"set number: "<<set<<endl;
     cout<<"reset number: "<<reset<<endl;
 }
+/*
+**Output**
+Enter position of bit to be set: 4
+enter position of bit to be reset: 6
+set number: 86
+reset number: 6
+*/
